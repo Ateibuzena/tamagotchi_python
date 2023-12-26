@@ -1,4 +1,6 @@
 # tamagotchi_app
+🩵🩵🩵🩵🩵 ⬇️⬇️⬇️⬇️  Enlace para descargar el paquete de la app de tamagotchi  ⬇️⬇️⬇️⬇️ 🩵🩵🩵🩵🩵
+https://drive.google.com/drive/folders/1IdbKt2V0rk1bZwkDwJ_JiZf2ZUPH5o1o?usp=sharing
 # Tamagotchi App en Python
 
 En este ejercicio vamos a intentar replicar el popular juego de tamagotchi de los 90's con python, usando clases y métodos.
