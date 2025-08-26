@@ -1,4 +1,3 @@
-# tamagotchi_app
 🩵🩵🩵🩵🩵 ⬇️⬇️⬇️⬇️  Enlace para descargar el paquete de la app de tamagotchi  ⬇️⬇️⬇️⬇️ 🩵🩵🩵🩵🩵
 https://drive.google.com/drive/folders/1IdbKt2V0rk1bZwkDwJ_JiZf2ZUPH5o1o?usp=sharing
 # Tamagotchi App en Python
